@@ -6,7 +6,7 @@ import org.hamcrest.Matchers;
 import org.junit.After;
 import org.junit.Test;
 import ru.yandex_praktikum.clients.CourierClient;
-import ru.yandex_praktikum.dataprovider.CourierProvider;
+import ru.yandex_praktikum.dataproviders.CourierProvider;
 import ru.yandex_praktikum.pojo.*;
 
 
